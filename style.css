@@ -20,7 +20,7 @@ body{
     flex-direction: column;
 }
 .left-login> h1{
-    color: #C12C2C;
+    color: #fe324b;
 
 }
 
@@ -45,7 +45,7 @@ body{
 }
 
 .card-login > h1 {
-     color: #C12C2C;
+     color: #fe324b;
      font-weight: 800;
      margin: 0;
 }
